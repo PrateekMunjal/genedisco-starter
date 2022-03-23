@@ -1,0 +1,8 @@
+du deploy
+pwd:G42admin123!@#
+
+docker build -t submission:latest .
+export PATH=/home/shadab/anaconda3/bin:$PATH
+
+evalai set_token token.json 
+
